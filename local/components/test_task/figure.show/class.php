@@ -32,7 +32,6 @@ class FigureShowComponent extends CBitrixComponent
     private function prepareData(): void
     {
         $this->arResult = [
-            'FIGURE_TYPE' => $this->arParams['FIGURE_TYPE'],
             'CSS_CLASS' => 'figure-' . $this->arParams['FIGURE_TYPE']
         ];
     }
