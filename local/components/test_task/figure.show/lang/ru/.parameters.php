@@ -1,0 +1,4 @@
+<?php
+$MESS['TEST_TASK_FIGURE_SHOW_PARAM_TYPE'] = 'Тип фигуры';
+$MESS['TEST_TASK_FIGURE_SHOW_TYPE_CIRCLE'] = 'Зеленый круг';
+$MESS['TEST_TASK_FIGURE_SHOW_TYPE_SQUARE'] = 'Красный квадрат';

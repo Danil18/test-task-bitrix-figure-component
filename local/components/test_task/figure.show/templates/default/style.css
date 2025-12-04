@@ -1,0 +1,15 @@
+.test-task-figure {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.figure-circle {
+    background-color: green;
+    border-radius: 50%;
+}
+
+.figure-square {
+    background-color: red;
+    border-radius: 0;
+}
